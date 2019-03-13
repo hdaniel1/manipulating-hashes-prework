@@ -22,6 +22,7 @@ contacts.each do  |person, data|
           value.delete("strawberry")
         end
       end
+      end
     end
   end
 
